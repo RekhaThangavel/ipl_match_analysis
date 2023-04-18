@@ -7,4 +7,4 @@ I have used the dataset called "dataset.csv" to perform the following techniques
 * Data Visualisation
 * Exploratory Data Analysis
 
-You can have a look at ipynb file for more details.
+You can have a look at ipl-match-analysis.ipynb file for more details.
