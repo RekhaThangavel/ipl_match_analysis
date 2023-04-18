@@ -6,3 +6,5 @@ I have used pandas, matplotlib and searborn packages to read and visualise the d
 I have used the dataset called "dataset.csv" to perform the following techniques:
 * Data Visualisation
 * Exploratory Data Analysis
+
+You can have a look at ipynb file for more details.
